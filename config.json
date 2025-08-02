@@ -3,6 +3,6 @@
   "domain": "https://g13.nbfive.com",
   "ad_network": "PopCash",
   "ads_code": [
-    "<script type=\"text/javascript\">var uid = '492091'; var wid = '743981'; var pop_tag = document.createElement('script');pop_tag.src='//cdn.popcash.net/show.js';document.body.appendChild(pop_tag); pop_tag.onerror = function() {pop_tag = document.createElement('script');pop_tag.src='//cdn2.popcash.net/show.js';document.body.appendChild(pop_tag);};</script>"
+    "<script type=\"text/javascript\">var uid = '492091'; var wid = '744015'; var pop_tag = document.createElement('script');pop_tag.src='//cdn.popcash.net/show.js';document.body.appendChild(pop_tag); pop_tag.onerror = function() {pop_tag = document.createElement('script');pop_tag.src='//cdn2.popcash.net/show.js';document.body.appendChild(pop_tag);};</script>"
   ]
 }
