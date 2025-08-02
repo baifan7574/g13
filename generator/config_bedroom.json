@@ -1,0 +1,21 @@
+{
+  "model": "realisticVisionV60B1_v51HyperVAE",
+  "lora": "",
+  "width": 512,
+  "height": 768,
+  "steps": 20,
+  "cfg_scale": 7,
+  "sampler_index": "DPM++ 2M",
+  "hires_fix": true,
+  "hires_upscaler": "Latent",
+  "hires_scale": 1.5,
+  "hires_denoising_strength": 0.55,
+  "refiner": false,
+  "batch_size": 20,
+  "total_images": 50,
+  "seed": -1,
+  "prompt": "refined woman resting on luxury bedding, ambient warm window light, natural hair flow, textured linen sheets, elegant posture, upscale bedroom decor, editorial realism",
+  "negative_prompt": "nude, cartoon, watermark, artificial lighting, low detail, blurry, cluttered background",
+  "output_dir": "../bedroom",
+  "category": "bedroom"
+}

@@ -1,0 +1,21 @@
+{
+  "model": "realisticVisionV60B1_v51HyperVAE",
+  "lora": "",
+  "width": 512,
+  "height": 768,
+  "steps": 20,
+  "cfg_scale": 7,
+  "sampler_index": "DPM++ 2M",
+  "hires_fix": true,
+  "hires_upscaler": "Latent",
+  "hires_scale": 1.5,
+  "hires_denoising_strength": 0.55,
+  "refiner": false,
+  "batch_size": 20,
+  "total_images": 50,
+  "seed": -1,
+  "prompt": "realistic reflection of confident woman adjusting earring in gold-rimmed mirror, ambient indoor light, natural makeup, clean vanity desk, soft elegance, fashion portrait feel",
+  "negative_prompt": "cartoon, messy room, symmetry distortion, lowres, watermark, cropped face",
+  "output_dir": "../mirror",
+  "category": "mirror"
+}

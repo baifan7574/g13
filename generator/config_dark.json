@@ -1,0 +1,21 @@
+{
+  "model": "realisticVisionV60B1_v51HyperVAE",
+  "lora": "",
+  "width": 512,
+  "height": 768,
+  "steps": 20,
+  "cfg_scale": 7,
+  "sampler_index": "DPM++ 2M",
+  "hires_fix": true,
+  "hires_upscaler": "Latent",
+  "hires_scale": 1.5,
+  "hires_denoising_strength": 0.55,
+  "refiner": false,
+  "batch_size": 20,
+  "total_images": 50,
+  "seed": -1,
+  "prompt": "mysterious woman walking through dim corridor, velvet black outfit, low angle lighting, shadow depth, tension in posture, cinematic lens feel, high detail realism",
+  "negative_prompt": "nsfw, cartoon, distorted anatomy, watermark, overdark, exaggerated features",
+  "output_dir": "../dark",
+  "category": "dark"
+}
