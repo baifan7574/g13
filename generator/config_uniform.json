@@ -14,8 +14,8 @@
   "batch_size": 20,
   "total_images": 50,
   "seed": -1,
-  "prompt": "chic woman in contemporary uniform standing in clean architectural corridor, minimal design, straight posture, soft bounce lighting, glossy shoes, photoreal executive feel",
-  "negative_prompt": "cartoon, distorted, lowres, nsfw, watermark, broken pose, unrealistic skin",
+  "prompt": "gorgeous slim woman in sleek modern uniform dress, standing in white corridor, subtle power pose, glossy shoes, minimal background, clean lighting, executive beauty look, editorial fashion portrait",
+  "negative_prompt": "cartoon, blur, bad anatomy, unrealistic, watermark, nsfw, cropped face, distorted",
   "output_dir": "../uniform",
   "category": "uniform"
 }

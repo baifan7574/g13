@@ -14,8 +14,8 @@
   "batch_size": 20,
   "total_images": 50,
   "seed": -1,
-  "prompt": "realistic reflection of confident woman adjusting earring in gold-rimmed mirror, ambient indoor light, natural makeup, clean vanity desk, soft elegance, fashion portrait feel",
-  "negative_prompt": "cartoon, messy room, symmetry distortion, lowres, watermark, cropped face",
+  "prompt": "charming woman posing confidently in front of large ornate mirror, holding smartphone, elegant hairstyle, vintage bedroom setting, artistic reflection, warm ambient daylight, photorealistic portrait",
+  "negative_prompt": "face cropped, bad symmetry, lowres, cartoon, watermark, nude, messy room",
   "output_dir": "../mirror",
   "category": "mirror"
 }

@@ -14,8 +14,8 @@
   "batch_size": 20,
   "total_images": 50,
   "seed": -1,
-  "prompt": "elegant woman in modern penthouse lounge, wearing silk robe, ambient lamp light reflections, subtle jewelry sparkle, minimalist luxury tone, high society ambiance",
-  "negative_prompt": "nudity, cartoon, artificial glow, heavy makeup, watermark, low contrast",
+  "prompt": "stunning rich woman lounging on velvet armchair, gold silk dress, crystal earrings, holding wine glass, chandelier reflections, elite socialite vibe, vogue fashion shoot, ambient soft lighting",
+  "negative_prompt": "nudity, cleavage, poor lighting, cartoon, lowres, watermark, bad hands, awkward pose",
   "output_dir": "../luxury",
   "category": "luxury"
 }

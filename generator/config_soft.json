@@ -14,8 +14,8 @@
   "batch_size": 20,
   "total_images": 50,
   "seed": -1,
-  "prompt": "soft light on young woman reading near window, pastel clothing, gentle indoor haze, casual elegance, peaceful posture, cinematic backlight, realistic glow skin",
-  "negative_prompt": "lowres, blur, cartoon, overedit, flat background, watermark",
+  "prompt": "dreamy young lady with glowing complexion, wearing flowy pastel dress, soft morning light from window, ethereal haze, gentle smile, artistic blur, minimalistic elegant background, photorealistic shot",
+  "negative_prompt": "lowres, poor detail, cartoon, overexposure, blur, ugly hands, off-center, messy hair",
   "output_dir": "../soft",
   "category": "soft"
 }

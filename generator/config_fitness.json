@@ -14,8 +14,8 @@
   "batch_size": 20,
   "total_images": 50,
   "seed": -1,
-  "prompt": "fit and focused woman stretching on wooden floor, sunlight filtering through blinds, lean silhouette, subtle sweat, toned arms and legs, clean gym setting, photorealistic quality",
-  "negative_prompt": "nudity, cartoon, lowres, unreal muscles, watermark, gym clutter, cropped body",
+  "prompt": "ultra-fit beautiful woman in compression crop top and yoga pants, glowing sweaty skin, gym wall with neon signs, energetic pose, strong core muscles, dynamic backlight, 8k sports editorial look",
+  "negative_prompt": "nudity, cropped limbs, cartoon, watermark, overexposure, blurry, out of frame, distorted body",
   "output_dir": "../fitness",
   "category": "fitness"
 }

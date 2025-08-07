@@ -14,8 +14,8 @@
   "batch_size": 20,
   "total_images": 50,
   "seed": -1,
-  "prompt": "woman sitting under soft red light in velvet chair, subtle expression, low-key lighting with reflective textures, minimal wardrobe, intimate yet tasteful tone, fashion editorial mood",
-  "negative_prompt": "nsfw, nude, cartoon, overdark, watermark, forced pose, excessive contrast",
+  "prompt": "alluring mysterious woman in crimson-lit room, velvet curtain backdrop, black satin lingerie, intense eye contact, moody shadows, subtle backlight, sensual editorial tone, magazine-grade clarity",
+  "negative_prompt": "nsfw, nude, overly dark, poorly drawn, cartoon, bad angle, cropped face, watermark",
   "output_dir": "../redroom",
   "category": "redroom"
 }

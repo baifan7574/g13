@@ -25,4 +25,4 @@ echo Running: generate_link_list.py (生成全站图像链接索引页面 link_l
 python generate_link_list.py
 
 echo ✅ 所有任务已完成!
-pause
+

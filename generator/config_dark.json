@@ -14,8 +14,8 @@
   "batch_size": 20,
   "total_images": 50,
   "seed": -1,
-  "prompt": "mysterious woman walking through dim corridor, velvet black outfit, low angle lighting, shadow depth, tension in posture, cinematic lens feel, high detail realism",
-  "negative_prompt": "nsfw, cartoon, distorted anatomy, watermark, overdark, exaggerated features",
+  "prompt": "enigmatic beauty in black evening gown, standing in shadowy narrow corridor, sharp jawline, glossy lips, moody low-key lighting, mysterious atmosphere, dramatic silhouette, fashion noir photography",
+  "negative_prompt": "nsfw, nude, lowres, cartoon, ugly, distorted face, watermark, messy background, poorly drawn hands",
   "output_dir": "../dark",
   "category": "dark"
 }
