@@ -73,17 +73,21 @@ header h1 {
   text-decoration: none;
   font-size: 16px;
 }
-/* 手机端：隐藏左右竖条广告 + 悬浮广告，并移除预留间距 */
+/* 手机端：强制隐藏左右竖条广告 + 悬浮广告 */
 @media (max-width: 767px) {
-  .nb-stick.nb-left,
-  .nb-stick.nb-right,
+  div.nb-stick.nb-left[data-nb="left"],
+  div.nb-stick.nb-right[data-nb="right"],
   #nb-float,
   .nb-float,
   .nb-stick-float {
     display: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
     width: 0 !important;
     height: 0 !important;
     overflow: hidden !important;
+    position: absolute !important;
+    left: -9999px !important;
   }
 
   body.nb-has-left,
