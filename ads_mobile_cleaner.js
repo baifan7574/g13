@@ -1,33 +1,27 @@
 (function() {
-  // 只在手机端执行
   if (window.innerWidth <= 767) {
-    // 判断是否是主页（常见的判断方式：路径为根目录 或 index.html）
     var isHomePage = (location.pathname === "/" || location.pathname.endsWith("index.html"));
 
     if (isHomePage) {
       function removeAds() {
-        // 左竖条
-        var leftAd = document.querySelectorAll('.nb-stick.nb-left[data-nb="left"]');
-        // 右竖条
-        var rightAd = document.querySelectorAll('.nb-stick.nb-right[data-nb="right"]');
-        // 浮动广告
-        var floatAd = document.querySelectorAll('#nb-float, .nb-float, .nb-stick-float');
+        // 清理竖条 / 浮窗 / 弹窗
+        var ads = document.querySelectorAll(
+          '.nb-stick.nb-left[data-nb="left"], .nb-stick.nb-right[data-nb="right"], #nb-float, .nb-float, .nb-stick-float, .nb-modal'
+        );
+        ads.forEach(function(el) { el.remove(); });
 
-        // 删除找到的广告节点
-        [leftAd, rightAd, floatAd].forEach(function(list) {
-          if (list && list.length) {
-            list.forEach(function(el) {
-              el.remove();
-            });
+        // 额外清理“覆盖型方块广告”
+        var overlays = document.querySelectorAll('div[style*="position:absolute"], div[style*="position:fixed"]');
+        overlays.forEach(function(el) {
+          // 如果里面包含广告联盟的 iframe 或 juicy 字样，就删除
+          if (el.innerHTML.includes("juicy") || el.innerHTML.includes("adsbyjuicy") || el.querySelector("iframe")) {
+            el.remove();
           }
         });
       }
 
-      // 页面加载完成后清理一次
       document.addEventListener("DOMContentLoaded", removeAds);
-
-      // 每隔 2 秒再清理一次，防止广告脚本重新插入
-      setInterval(removeAds, 2000);
+      setInterval(removeAds, 1000); // 每秒检查一次
     }
   }
 })();
