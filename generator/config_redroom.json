@@ -14,7 +14,7 @@
   "batch_size": 20,
   "total_images": 50,
   "seed": -1,
-  "prompt": "alluring mysterious woman in crimson-lit room, velvet curtain backdrop, black satin lingerie, intense eye contact, moody shadows, subtle backlight, sensual editorial tone, magazine-grade clarity",
+  "prompt": "1girl, solo, single subject, one woman only\nphoto-realistic, ultra-detailed, cinematic portrait, 9:16 vertical, \nbeautiful young woman, elegant and attractive, natural beauty, \nunique facial features, subtle asymmetry allowed, realistic skin texture, \nhighly detailed eyes, sharp iris, glossy lips, natural nose, \nnatural expression, soft makeup, \nsoft studio light, rim light on hair, warm skin tone, \nprofessional photography style, depth of field, cinematic color grading, \nsharp focus, award-winning portrait photo, aesthetic red background images, what is aesthetic photography, neutral pastel tones, loose ponytail, casual crop top, muted cinematic tones, Kodak Portra vibe, sensual vibe, elegant posture, tasteful composition",
   "negative_prompt": "nsfw, nude, overly dark, poorly drawn, cartoon, bad angle, cropped face, watermark",
   "output_dir": "../redroom",
   "category": "redroom"

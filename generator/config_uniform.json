@@ -14,7 +14,7 @@
   "batch_size": 20,
   "total_images": 50,
   "seed": -1,
-  "prompt": "gorgeous slim woman in sleek modern uniform dress, standing in white corridor, subtle power pose, glossy shoes, minimal background, clean lighting, executive beauty look, editorial fashion portrait",
+  "prompt": "1girl, solo, single subject, one woman only\nphoto-realistic, ultra-detailed, cinematic portrait, 9:16 vertical, \nbeautiful young woman, elegant and attractive, natural beauty, \nunique facial features, subtle asymmetry allowed, realistic skin texture, \nhighly detailed eyes, sharp iris, glossy lips, natural nose, \nnatural expression, soft makeup, \nsoft studio light, rim light on hair, warm skin tone, \nprofessional photography style, depth of field, cinematic color grading, \nsharp focus, award-winning portrait photo, uniform model, uniform woman school, aesthetic uniform outfits, natural skin tone, ombre hair coloring, fitted tank top, muted cinematic tones, Kodak Portra vibe, sensual vibe, elegant posture, tasteful composition",
   "negative_prompt": "cartoon, blur, bad anatomy, unrealistic, watermark, nsfw, cropped face, distorted",
   "output_dir": "../uniform",
   "category": "uniform"

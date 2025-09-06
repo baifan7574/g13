@@ -1,0 +1,21 @@
+{
+  "model": "realisticVisionV60B1_v51HyperVAE",
+  "lora": "",
+  "width": 512,
+  "height": 768,
+  "steps": 20,
+  "cfg_scale": 7,
+  "sampler_index": "DPM++ 2M",
+  "hires_fix": true,
+  "hires_upscaler": "Latent",
+  "hires_scale": 1.5,
+  "hires_denoising_strength": 0.55,
+  "refiner": false,
+  "batch_size": 20,
+  "total_images": 50,
+  "seed": -1,
+  "prompt": "photo-realistic, natural skin texture, accurate anatomy, cinematic lighting, 9:16 vertical, \nhigh micro-contrast, detailed eyes, realistic fabric folds, shallow depth of field, \nsensual atmosphere, elegant posture, cinematic composition, aesthetic toilet photos, bath aesthetic photo, bathroom ideas photo gallery south africa, aesthetic places to take pictures, cinematic teal and orange, glossy healthy hair, tight dress silhouette, muted cinematic tones, Kodak Portra vibe, sensual vibe, elegant posture, tasteful composition",
+  "negative_prompt": "nsfw, nude, explicit, cartoon, watermark, blurred background, face obscured, overexposed",
+  "output_dir": "../shower",
+  "category": "shower"
+}

@@ -1,0 +1,21 @@
+{
+  "model": "realisticVisionV60B1_v51HyperVAE",
+  "lora": "",
+  "width": 512,
+  "height": 768,
+  "steps": 20,
+  "cfg_scale": 7,
+  "sampler_index": "DPM++ 2M",
+  "hires_fix": true,
+  "hires_upscaler": "Latent",
+  "hires_scale": 1.5,
+  "hires_denoising_strength": 0.55,
+  "refiner": false,
+  "batch_size": 20,
+  "total_images": 50,
+  "seed": -1,
+  "prompt": "photo-realistic, natural skin texture, accurate anatomy, cinematic lighting, 9:16 vertical, \nhigh micro-contrast, detailed eyes, realistic fabric folds, shallow depth of field, \nsensual atmosphere, elegant posture, cinematic composition, luxury lifestyle list, luxury lifestyle aesthetics fort smith photos, luxury style living villa 3, neutral pastel tones, glossy healthy hair, fitted tank top, muted cinematic tones, Kodak Portra vibe, sensual vibe, elegant posture, tasteful composition",
+  "negative_prompt": "nudity, cleavage, poor lighting, cartoon, lowres, watermark, bad hands, awkward pose",
+  "output_dir": "../luxury",
+  "category": "luxury"
+}

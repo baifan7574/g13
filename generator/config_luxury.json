@@ -14,7 +14,7 @@
   "batch_size": 20,
   "total_images": 50,
   "seed": -1,
-  "prompt": "stunning rich woman lounging on velvet armchair, gold silk dress, crystal earrings, holding wine glass, chandelier reflections, elite socialite vibe, vogue fashion shoot, ambient soft lighting",
+  "prompt": "1girl, solo, single subject, one woman only\nphoto-realistic, ultra-detailed, cinematic portrait, 9:16 vertical, \nbeautiful young woman, elegant and attractive, natural beauty, \nunique facial features, subtle asymmetry allowed, realistic skin texture, \nhighly detailed eyes, sharp iris, glossy lips, natural nose, \nnatural expression, soft makeup, \nsoft studio light, rim light on hair, warm skin tone, \nprofessional photography style, depth of field, cinematic color grading, \nsharp focus, award-winning portrait photo, luxurious lifestyle photo, luxury lifestyle ideas, luxury lifestyle list, cinematic teal and orange, glossy healthy hair, bodycon dress, muted cinematic tones, Kodak Portra vibe, sensual vibe, elegant posture, tasteful composition",
   "negative_prompt": "nudity, cleavage, poor lighting, cartoon, lowres, watermark, bad hands, awkward pose",
   "output_dir": "../luxury",
   "category": "luxury"
