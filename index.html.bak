@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Obsidian Lens </title>
+    <meta name="description" content="For Those Who Appreciate More Than Beauty.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="styles.css" rel="stylesheet">
+    <link rel="canonical" href="https://example.com/">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Obsidian Lens ",
+  "url": "https://g13.nbfive.com/",
+  "description": "For men who appreciate more than beauty. A curated gallery of elegance."
+}
+</script>
+
+</head>
+<body>
+    <header>
+        <h1>Obsidian Lens </h1>
+        <p>For Men Who Appreciate More Than Beauty.</p>
+    </header>
+
+    <!-- 自动插入图片展示区 -->
+    <section class="gallery-container">
+        <div class="category">
+  <h2>Bedroom</h2>
+  <div class="gallery">
+    <a data-lightbox="bedroom" href="bedroom/page1.html"><img alt="" src="bedroom/20250912_152910_20.jpg"/></a>
+    <a data-lightbox="bedroom" href="bedroom/page1.html"><img alt="" src="bedroom/20250912_152910_19.jpg"/></a>
+    <a data-lightbox="bedroom" href="bedroom/page1.html"><img alt="" src="bedroom/20250912_152910_18.jpg"/></a>
+    <a data-lightbox="bedroom" href="bedroom/page1.html"><img alt="" src="bedroom/20250912_152910_17.jpg"/></a>
+  </div>
+  <div class="view-more"><a href="bedroom/page1.html">→ View More</a></div>
+</div>
+<div class="category">
+  <h2>Dark</h2>
+  <div class="gallery">
+    <a data-lightbox="dark" href="dark/page1.html"><img alt="" src="dark/20250912_153102_20.jpg"/></a>
+    <a data-lightbox="dark" href="dark/page1.html"><img alt="" src="dark/20250912_153102_19.jpg"/></a>
+    <a data-lightbox="dark" href="dark/page1.html"><img alt="" src="dark/20250912_153102_18.jpg"/></a>
+    <a data-lightbox="dark" href="dark/page1.html"><img alt="" src="dark/20250912_153102_17.jpg"/></a>
+  </div>
+  <div class="view-more"><a href="dark/page1.html">→ View More</a></div>
+</div>
+<div class="category">
+  <h2>Fitness</h2>
+  <div class="gallery">
+    <a data-lightbox="fitness" href="fitness/page1.html"><img alt="" src="fitness/20250912_153252_20.jpg"/></a>
+    <a data-lightbox="fitness" href="fitness/page1.html"><img alt="" src="fitness/20250912_153252_19.jpg"/></a>
+    <a data-lightbox="fitness" href="fitness/page1.html"><img alt="" src="fitness/20250912_153252_18.jpg"/></a>
+    <a data-lightbox="fitness" href="fitness/page1.html"><img alt="" src="fitness/20250912_153252_17.jpg"/></a>
+  </div>
+  <div class="view-more"><a href="fitness/page1.html">→ View More</a></div>
+</div>
+<div class="category">
+  <h2>Luxury</h2>
+  <div class="gallery">
+    <a data-lightbox="luxury" href="luxury/page1.html"><img alt="" src="luxury/20250912_153444_20.jpg"/></a>
+    <a data-lightbox="luxury" href="luxury/page1.html"><img alt="" src="luxury/20250912_153444_19.jpg"/></a>
+    <a data-lightbox="luxury" href="luxury/page1.html"><img alt="" src="luxury/20250912_153444_18.jpg"/></a>
+    <a data-lightbox="luxury" href="luxury/page1.html"><img alt="" src="luxury/20250912_153444_17.jpg"/></a>
+  </div>
+  <div class="view-more"><a href="luxury/page1.html">→ View More</a></div>
+</div>
+<div class="category">
+  <h2>Mirror</h2>
+  <div class="gallery">
+    <a data-lightbox="mirror" href="mirror/page1.html"><img alt="" src="mirror/20250912_153645_20.jpg"/></a>
+    <a data-lightbox="mirror" href="mirror/page1.html"><img alt="" src="mirror/20250912_153645_19.jpg"/></a>
+    <a data-lightbox="mirror" href="mirror/page1.html"><img alt="" src="mirror/20250912_153645_18.jpg"/></a>
+    <a data-lightbox="mirror" href="mirror/page1.html"><img alt="" src="mirror/20250912_153645_17.jpg"/></a>
+  </div>
+  <div class="view-more"><a href="mirror/page1.html">→ View More</a></div>
+</div>
+<div class="category">
+  <h2>Office</h2>
+  <div class="gallery">
+    <a data-lightbox="office" href="office/page1.html"><img alt="" src="office/20250912_153855_20.jpg"/></a>
+    <a data-lightbox="office" href="office/page1.html"><img alt="" src="office/20250912_153855_19.jpg"/></a>
+    <a data-lightbox="office" href="office/page1.html"><img alt="" src="office/20250912_153855_18.jpg"/></a>
+    <a data-lightbox="office" href="office/page1.html"><img alt="" src="office/20250912_153855_17.jpg"/></a>
+  </div>
+  <div class="view-more"><a href="office/page1.html">→ View More</a></div>
+</div>
+<div class="category">
+  <h2>Redroom</h2>
+  <div class="gallery">
+    <a data-lightbox="redroom" href="redroom/page1.html"><img alt="" src="redroom/20250912_154057_20.jpg"/></a>
+    <a data-lightbox="redroom" href="redroom/page1.html"><img alt="" src="redroom/20250912_154057_19.jpg"/></a>
+    <a data-lightbox="redroom" href="redroom/page1.html"><img alt="" src="redroom/20250912_154057_18.jpg"/></a>
+    <a data-lightbox="redroom" href="redroom/page1.html"><img alt="" src="redroom/20250912_154057_17.jpg"/></a>
+  </div>
+  <div class="view-more"><a href="redroom/page1.html">→ View More</a></div>
+</div>
+<div class="category">
+  <h2>Shower</h2>
+  <div class="gallery">
+    <a data-lightbox="shower" href="shower/page1.html"><img alt="" src="shower/20250912_154258_20.jpg"/></a>
+    <a data-lightbox="shower" href="shower/page1.html"><img alt="" src="shower/20250912_154258_19.jpg"/></a>
+    <a data-lightbox="shower" href="shower/page1.html"><img alt="" src="shower/20250912_154258_18.jpg"/></a>
+    <a data-lightbox="shower" href="shower/page1.html"><img alt="" src="shower/20250912_154258_17.jpg"/></a>
+  </div>
+  <div class="view-more"><a href="shower/page1.html">→ View More</a></div>
+</div>
+<div class="category">
+  <h2>Soft</h2>
+  <div class="gallery">
+    <a data-lightbox="soft" href="soft/page1.html"><img alt="" src="soft/20250912_154454_20.jpg"/></a>
+    <a data-lightbox="soft" href="soft/page1.html"><img alt="" src="soft/20250912_154454_19.jpg"/></a>
+    <a data-lightbox="soft" href="soft/page1.html"><img alt="" src="soft/20250912_154454_18.jpg"/></a>
+    <a data-lightbox="soft" href="soft/page1.html"><img alt="" src="soft/20250912_154454_17.jpg"/></a>
+  </div>
+  <div class="view-more"><a href="soft/page1.html">→ View More</a></div>
+</div>
+<div class="category">
+  <h2>Uniform</h2>
+  <div class="gallery">
+    <a data-lightbox="uniform" href="uniform/page1.html"><img alt="" src="uniform/20250912_154653_20.jpg"/></a>
+    <a data-lightbox="uniform" href="uniform/page1.html"><img alt="" src="uniform/20250912_154653_19.jpg"/></a>
+    <a data-lightbox="uniform" href="uniform/page1.html"><img alt="" src="uniform/20250912_154653_18.jpg"/></a>
+    <a data-lightbox="uniform" href="uniform/page1.html"><img alt="" src="uniform/20250912_154653_17.jpg"/></a>
+  </div>
+  <div class="view-more"><a href="uniform/page1.html">→ View More</a></div>
+</div>
+
+    </section>
+
+    <!-- 广告代码区域 -->
+    <div class="ad-zone">
+        ['<script type="text/javascript">var uid = \'492091\'; var wid = \'744015\'; var pop_tag = document.createElement(\'script\');pop_tag.src=\'//cdn.popcash.net/show.js\';document.body.appendChild(pop_tag); pop_tag.onerror = function() {pop_tag = document.createElement(\'script\');pop_tag.src=\'//cdn2.popcash.net/show.js\';document.body.appendChild(pop_tag);};</script>']
+    </div>
+
+    <footer>
+        <nav>
+            <a href="about.html">About</a> |
+            <a href="privacy.html">Privacy</a> |
+            <a href="contact.html">Contact</a>
+        </nav>
+        <p>For Men Who Appreciate More Than Beauty.</p>
+    </footer>
+</body>
+</html>
