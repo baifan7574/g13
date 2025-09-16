@@ -75,3 +75,7 @@ tags\soft-portraits_6.html
 tags\soft-portraits_7.html
 tags\soft-portraits_8.html
 tags\soft-portraits_9.html
+404.html
+index.html
+index_template.html
+link_list.html
