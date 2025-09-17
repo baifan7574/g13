@@ -2,35 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://g13.nbfive.com/404.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/about.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/auto_homepage.html</loc>
-    <lastmod>2025-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://g13.nbfive.com/contact.html</loc>
-    <lastmod>2025-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://g13.nbfive.com/googleaf4d2d986493bb7e.html</loc>
-    <lastmod>2025-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://g13.nbfive.com/index.html</loc>
-    <lastmod>2025-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://g13.nbfive.com/link_list.html</loc>
-    <lastmod>2025-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://g13.nbfive.com/privacy.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/bedroom/20250802_090016_01.html</loc>
@@ -1879,6 +1859,10 @@
   <url>
     <loc>https://g13.nbfive.com/bedroom/page9.html</loc>
     <lastmod>2025-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://g13.nbfive.com/contact.html</loc>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/dark/20250802_090202_01.html</loc>
@@ -5550,6 +5534,18 @@
   </url>
   <url>
     <loc>https://g13.nbfive.com/fitness/page9.html</loc>
+    <lastmod>2025-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://g13.nbfive.com/googleaf4d2d986493bb7e.html</loc>
+    <lastmod>2025-09-17</lastmod>
+  </url>
+  <url>
+    <loc>https://g13.nbfive.com/index.html</loc>
+    <lastmod>2025-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://g13.nbfive.com/link_list.html</loc>
     <lastmod>2025-09-16</lastmod>
   </url>
   <url>
@@ -10745,56 +10741,60 @@
     <lastmod>2025-09-16</lastmod>
   </url>
   <url>
-    <loc>https://g13.nbfive.com/pages/dark.html</loc>
-    <lastmod>2025-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://g13.nbfive.com/pages/office.html</loc>
-    <lastmod>2025-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://g13.nbfive.com/pages/page1.html</loc>
-    <lastmod>2025-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://g13.nbfive.com/pages/page2.html</loc>
-    <lastmod>2025-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://g13.nbfive.com/pages/shower.html</loc>
-    <lastmod>2025-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://g13.nbfive.com/pages/soft.html</loc>
-    <lastmod>2025-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://g13.nbfive.com/pages/uniform.html</loc>
-    <lastmod>2025-09-16</lastmod>
-  </url>
-  <url>
     <loc>https://g13.nbfive.com/pages/dark/index.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
+  </url>
+  <url>
+    <loc>https://g13.nbfive.com/pages/dark.html</loc>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/pages/office/index.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
+  </url>
+  <url>
+    <loc>https://g13.nbfive.com/pages/office.html</loc>
+    <lastmod>2025-09-17</lastmod>
+  </url>
+  <url>
+    <loc>https://g13.nbfive.com/pages/page1.html</loc>
+    <lastmod>2025-09-17</lastmod>
+  </url>
+  <url>
+    <loc>https://g13.nbfive.com/pages/page2.html</loc>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/pages/shower/index.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
+  </url>
+  <url>
+    <loc>https://g13.nbfive.com/pages/shower.html</loc>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/pages/single/index.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/pages/soft/index.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
+  </url>
+  <url>
+    <loc>https://g13.nbfive.com/pages/soft.html</loc>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/pages/uniform/index.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
+  </url>
+  <url>
+    <loc>https://g13.nbfive.com/pages/uniform.html</loc>
+    <lastmod>2025-09-17</lastmod>
+  </url>
+  <url>
+    <loc>https://g13.nbfive.com/privacy.html</loc>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/redroom/20250802_091051_01.html</loc>
@@ -16070,247 +16070,247 @@
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/cozy-bedroom.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/cozy-bedroom_10.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/cozy-bedroom_11.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/cozy-bedroom_12.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/cozy-bedroom_13.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/cozy-bedroom_14.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/cozy-bedroom_15.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/cozy-bedroom_2.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/cozy-bedroom_3.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/cozy-bedroom_4.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/cozy-bedroom_5.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/cozy-bedroom_6.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/cozy-bedroom_7.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/cozy-bedroom_8.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/cozy-bedroom_9.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/moody-tones.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/moody-tones_10.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/moody-tones_11.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/moody-tones_12.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/moody-tones_13.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/moody-tones_14.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/moody-tones_15.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/moody-tones_2.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/moody-tones_3.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/moody-tones_4.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/moody-tones_5.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/moody-tones_6.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/moody-tones_7.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/moody-tones_8.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/moody-tones_9.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/morning-light.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/morning-light_10.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/morning-light_11.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/morning-light_12.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/morning-light_13.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/morning-light_14.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/morning-light_15.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/morning-light_2.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/morning-light_3.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/morning-light_4.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/morning-light_5.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/morning-light_6.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/morning-light_7.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/morning-light_8.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/morning-light_9.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/natural-look.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/soft-portraits.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/soft-portraits_10.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/soft-portraits_11.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/soft-portraits_12.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/soft-portraits_13.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/soft-portraits_14.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/soft-portraits_15.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/soft-portraits_2.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/soft-portraits_3.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/soft-portraits_4.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/soft-portraits_5.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/soft-portraits_6.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/soft-portraits_7.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/soft-portraits_8.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/tags/soft-portraits_9.html</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-17</lastmod>
   </url>
   <url>
     <loc>https://g13.nbfive.com/uniform/20250802_091610_01.html</loc>
